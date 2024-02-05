@@ -20,7 +20,7 @@ const TOGGLE_REF = 'toggle-btn';
 const TOGGLE_ROLE = DropdownToggle.defaultProps.bsRole;
 const MENU_ROLE = DropdownMenu.defaultProps.bsRole;
 
-class Dropdown extends React.Component {
+class Dropdown extends React.Component{
 
   constructor(props) {
     super(props);
